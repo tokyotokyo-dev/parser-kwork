@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Session data (contains auth cookies — keep private)
+state.json
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+
+# Debug screenshots
+debug_*.png
+
+# Logs
+*.log
